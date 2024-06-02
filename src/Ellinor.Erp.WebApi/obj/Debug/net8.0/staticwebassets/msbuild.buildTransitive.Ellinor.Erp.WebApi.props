@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Ellinor.Erp.WebApi.props" />
+</Project>

@@ -1,0 +1,274 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Application\\Ellinor.Erp.Application.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Application\\Ellinor.Erp.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Application\\Ellinor.Erp.Application.csproj",
+        "projectName": "Ellinor.Erp.Application",
+        "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Application\\Ellinor.Erp.Application.csproj",
+        "packagesPath": "C:\\Users\\AqeMoham\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AqeMoham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\Ellinor.Erp.Domain.csproj": {
+                "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\Ellinor.Erp.Domain.csproj"
+              },
+              "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Shared\\Ellinor.Erp.Shared.csproj": {
+                "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Shared\\Ellinor.Erp.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.2.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\Ellinor.Erp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\Ellinor.Erp.Domain.csproj",
+        "projectName": "Ellinor.Erp.Domain",
+        "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\Ellinor.Erp.Domain.csproj",
+        "packagesPath": "C:\\Users\\AqeMoham\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AqeMoham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Resources\\Ellinor.Erp.Resources.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Resources\\Ellinor.Erp.Resources.csproj",
+        "projectName": "Ellinor.Erp.Resources",
+        "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Resources\\Ellinor.Erp.Resources.csproj",
+        "packagesPath": "C:\\Users\\AqeMoham\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Resources\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AqeMoham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Shared\\Ellinor.Erp.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Shared\\Ellinor.Erp.Shared.csproj",
+        "projectName": "Ellinor.Erp.Shared",
+        "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Shared\\Ellinor.Erp.Shared.csproj",
+        "packagesPath": "C:\\Users\\AqeMoham\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\AqeMoham\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\Ellinor.Erp.Domain.csproj": {
+                "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Domain\\Ellinor.Erp.Domain.csproj"
+              },
+              "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Resources\\Ellinor.Erp.Resources.csproj": {
+                "projectPath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Resources\\Ellinor.Erp.Resources.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.17, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

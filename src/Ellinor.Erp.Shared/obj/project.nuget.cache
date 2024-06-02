@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "DlE0DpLHrGZ7V0c7wtV6yZf9HpIKDQfUcV9qPjB4zLKcCDV2A6uN/xW6Db9GkG0ylcrBY3HCepp+OZ0m3K0Q1w==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\New folder\\EllinorErpApi\\src\\Ellinor.Erp.Shared\\Ellinor.Erp.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AqeMoham\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\AqeMoham\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\AqeMoham\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\AqeMoham\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\AqeMoham\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\AqeMoham\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512",
+    "C:\\Users\\AqeMoham\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
